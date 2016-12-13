@@ -1,14 +1,14 @@
 # lovelydesk
 
-A Clojure library designed to ... well, that part is up to you.
+An Issue management system using Atom, Git, Clojure, Datomic, Swagger etc.
 
 ## Usage
 
-FIXME
+`lein ring server`
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 NOBODY
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
