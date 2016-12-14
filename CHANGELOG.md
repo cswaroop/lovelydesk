@@ -17,8 +17,10 @@ All notable changes to this project will be documented in this file. This change
 
 ## 0.1.0 - 2016-12-13
 ### Added
-- Files from the new template.
-- Widget maker public API - `make-widget-sync`.
+
+- Added initial project
 
 [Unreleased]: https://github.com/your-name/lovelydesk/compare/0.1.1...HEAD
 [0.1.1]: https://github.com/your-name/lovelydesk/compare/0.1.0...0.1.1
+
+- API inspired by http://developer.freshdesk.com/api/

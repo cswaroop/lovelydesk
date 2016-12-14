@@ -1,6 +1,13 @@
 # lovelydesk
 
-An Issue management system using Atom, Git, Clojure, Datomic, Swagger etc.
+An Issue management system built with
+
+- Atom Editor
+- Git
+- Clojure
+- Datomic
+- Swagger
+- Kafka
 
 ## Usage
 
@@ -10,5 +17,5 @@ An Issue management system using Atom, Git, Clojure, Datomic, Swagger etc.
 
 Copyright © 2016 NOBODY
 
-Distributed under the Eclipse Public License either version 1.0 or (at
+Distributed under the GPL Public License either version 1.0 or (at
 your option) any later version.
